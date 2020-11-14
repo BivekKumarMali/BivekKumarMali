@@ -10,3 +10,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Brigther the sun easier the problem.I am morning person 😄
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=BivekMali)
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BivekMali)
