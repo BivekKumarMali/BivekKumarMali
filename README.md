@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: www.linkedin.com/in/bivek-mali-a05990192
 - ⚡ Fun fact: Brigther the sun easier the problem.I am morning person 😄
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=BivekMali)
+![Github stats](https://github-readme-stats.vercel.app/api?username=BivekKumarMali)
 
 ![counter](https://enalq38txuktjz3.m.pipedream.net)
 
