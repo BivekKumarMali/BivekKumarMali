@@ -17,8 +17,8 @@ I am a full-stack developer with experience in ASP.NET and Angular, and I am cur
 
 ## Contact me
 
-- LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/bivek-mali-a05990192/)
-- Email: your@email.com
+- LinkedIn: [linkedin.com/in/bivek-mali-a05990192](https://www.linkedin.com/in/bivek-mali-a05990192/)
+- Email: bivekmali1@email.com
 
 ## Fun fact
 
