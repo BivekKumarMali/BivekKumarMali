@@ -12,7 +12,7 @@ I am a full-stack developer with experience in ASP.NET and Angular, and I am cur
 
 ## Projects
 
-- [Project 2](https://github.com/BivekKumarMali/Lamdha-Email-Service): Lambda Email Service is a secure AWS Lambda function for handling email operations. Triggered via AWS API Gateway, it uses AWS SSM for secure storage of sensitive data. The service processes user details and sends emails efficiently, leveraging the scalability and cost-effectiveness of serverless computing. 
+- [Project 1](https://github.com/BivekKumarMali/Lamdha-Email-Service): Lambda Email Service is a secure AWS Lambda function for handling email operations. Triggered via AWS API Gateway, it uses AWS SSM for secure storage of sensitive data. The service processes user details and sends emails efficiently, leveraging the scalability and cost-effectiveness of serverless computing. 
 - [Project 2](https://github.com/yourusername/project2): A brief description of the project.
 
 ## Contact me
